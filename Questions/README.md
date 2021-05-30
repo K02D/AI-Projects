@@ -12,6 +12,6 @@ The AI first finds which document is the most relevant to the query using a metr
 
 **matching word measure**: sum of idf values for any word in the query that also appears in the sentence. The rarer the word and the more words there are in common, the greater the sum. 
 
-**query term density**: proportion of words in the sentence that are also words in the query
+**query term density**: proportion of words in the sentence that are also words in the query. Used to tiebreak if different sentences have the same *matching word measure*
 
 Video demonstration: https://youtu.be/-B8ZuXwRUnw
