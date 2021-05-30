@@ -10,6 +10,6 @@ The AI works by representing the information about mines in a knowledge base tha
 
 The above logical sentence says that out of cells A, B, C, D, E, F, G, H, exactly 1 of them is a mine.
 
-There will be cases when there are no known safe moves (0 % chance of clicking on a mine). When this happens, the AI chooses a random cell. Hence, even though the AI plays optimally, it can lose. 
+There will be cases when there are no known safe moves even after inferring as much as possible. When this happens, the AI chooses a random cell. Hence, even though the AI plays optimally, it can lose. 
 
 Video demonstration: https://youtu.be/fIpO5daehyM
