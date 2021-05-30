@@ -1,7 +1,7 @@
 # English Sentence Parser
 
 This is an AI that breaks down an English sentence into its grammatical components. It works by using a defined set of recursive rules called context-free grammar. 
-A few examples: /n
+A few examples: 
 S -> NP VP | S Conj S
 This means that a sentence (S) can be either a noun phrase (NP) followed by a verb phrase (VP)
 OR
