@@ -5,7 +5,7 @@ A few examples:
 
 S -> NP VP | S Conj S
 
-This means that a sentence (S) can be either a noun phrase (NP) followed by a verb phrase (VP) <u>OR</u> a sentence followed by a conjunction (Conj) and a sentence.
+This means that a sentence (S) can be either a noun phrase (NP) followed by a verb phrase (VP) <ins>OR</ins> a sentence followed by a conjunction (Conj) and a sentence.
 
 PP -> P | P NP | V PP
 
