@@ -12,24 +12,24 @@ Logically, we might reason that if A were a knight, then that sentence would hav
 
 This was fairly simple but the puzzles get much trickier with multiple statements. The program solves the following puzzles using encoded knowledged bases.
 
-0. 
+Puzzle 0
 
 A says “I am both a knight and a knave.”
 
 
-1.
+Puzzle 1
 
 A says “We are both knaves.”
 
 B says nothing.
 
-2.
+Puzzle 2
 
 A says “We are the same kind.”
 
 B says “We are of different kinds.”
 
-3.
+Puzzle 3
 
 A says either “I am a knight.” or “I am a knave.”, but you don’t know which.
 
@@ -38,5 +38,6 @@ B says “A said ‘I am a knave.’”
 B then says “C is a knave.”
 
 C says “A is a knight.”
+
 
 Video demonstration: https://youtu.be/JykoocXiNtM
