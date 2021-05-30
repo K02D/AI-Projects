@@ -11,6 +11,10 @@ PP -> P | P NP | V PP
 
 This means a prepositional phrase (PP) can be either a preposition OR a preposition (P) followed by a noun phrase OR a verb phrase followed by a prepositional phrase
 
+<br/>
+
+In this manner, several different syntactic units are defined (to see all the definitions please check the code). 
+
 To apply these recursive rules, however, the computer needs to know whether a given word is a noun, verb, preposition, etc.
 Hence, we list all possible values of each part of speech that appear in the corpus of sentences in the "sentences" directory, like so:
 
