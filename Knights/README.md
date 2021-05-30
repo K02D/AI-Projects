@@ -10,26 +10,26 @@ For example, consider a simple puzzle with just a single character named A. A sa
 
 Logically, we might reason that if A were a knight, then that sentence would have to be true. But we know that the sentence cannot possibly be true, because A cannot be both a knight and a knave – we know that each character is either a knight or a knave, but not both. So, we could conclude, A must be a knave.
 
-This was fairly simple but the puzzles get much trickier with multiple statements. The program solves the following puzzles using encoded knowledged bases.
+This was fairly simple but the puzzles get much trickier with multiple statements. The program solves the following puzzles using encoded knowledged bases:
 
-Puzzle 0
+<ins>Puzzle 0</ins>
 
 A says “I am both a knight and a knave.”
 
 
-Puzzle 1
+<ins>Puzzle 1</ins>
 
 A says “We are both knaves.”
 
 B says nothing.
 
-Puzzle 2
+<ins>Puzzle 2</ins>
 
 A says “We are the same kind.”
 
 B says “We are of different kinds.”
 
-Puzzle 3
+<ins>Puzzle 3</ins>
 
 A says either “I am a knight.” or “I am a knave.”, but you don’t know which.
 
