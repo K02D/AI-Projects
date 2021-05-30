@@ -12,6 +12,8 @@ OR
 a sentence followed by a conjunction (Conj) and a sentence.
 
 
+
+
 PP -> P | P NP | V PP
 
 This means a prepositional phrase (PP) can be either a preposition
