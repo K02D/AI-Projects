@@ -9,20 +9,19 @@ This means that a sentence (S) can be either a noun phrase (NP) followed by a ve
 
 PP -> P | P NP | V PP
 
-This means a prepositional phrase (PP) can be either a preposition OR a preposition (P) followed by a noun phrase OR a verb phrase followed by a prepositional phrase
+This means a prepositional phrase (PP) can be either a preposition <ins>OR</ins> a preposition (P) followed by a noun phrase <ins>OR</ins> a verb phrase followed by a prepositional phrase
 
 <br/>
 
 In this manner, several different syntactic units are defined (to see all the definitions please check the code). 
 
-To apply these recursive rules, however, the computer needs to know whether a given word is a noun, verb, preposition, etc.
+To apply these recursive rules, however, the computer needs to know whether a given word in the English language is a noun, verb, preposition, etc.
 Hence, we list all possible values of each part of speech that appear in the corpus of sentences in the "sentences" directory, like so:
 
 Adj -> "country" | "dreadful" | "enigmatical" | "little" | "moist" | "red"
 
 N -> "armchair" | "companion" | "day" | "door" | "hand" | "he" | "himself"
 
-
-By having recursive rules like this for every part of speech and then telling the computer all possible values for adjectives, nouns, prepositions, etc, that might appear in the sentence it is attempting to parse, the AI can construct a tree representing the sentences's grammatical components.
+By having recursive rules like this for every part of speech and then telling the computer all possible values for adjectives, nouns, prepositions, etc, that might appear in the sentence it is attempting to parse, the AI can construct trees representing the different ways you break up a sentence into its constituents without violating any grammatical rules.
 
 Video demonstration: https://youtu.be/5UXi_EOtrIE
