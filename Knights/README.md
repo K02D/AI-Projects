@@ -39,5 +39,5 @@ B then says “C is a knave.”
 
 C says “A is a knight.”
 
-
+<br>
 Video demonstration: https://youtu.be/JykoocXiNtM
