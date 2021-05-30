@@ -16,7 +16,7 @@ This means a prepositional phrase (PP) can be either a preposition <ins>OR</ins>
 In this manner, several different syntactic units are defined (to see all the definitions please check the code). 
 
 To apply these recursive rules, however, the computer needs to know whether a given word in the English language is a noun, verb, preposition, etc.
-Hence, we list all possible values of each part of speech that appear in the corpus of sentences in the "sentences" directory, like so:
+Hence, we list all possible instances of each part of speech that appear in the corpus of sentences in the "sentences" directory, like so:
 
 Adj -> "country" | "dreadful" | "enigmatical" | "little" | "moist" | "red"
 
