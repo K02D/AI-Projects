@@ -13,6 +13,7 @@ If a word is used more often and the word is rarer over the entire corpus, it is
 
 **matching word measure**: sum of IDF values for any word in the query that also appears in the sentence
 The rarer the word and the more words there are in common, the greater the sum. 
+
 **query term density**: proportion of words in the sentence that are also words in the query
 
 Video demonstration: https://youtu.be/-B8ZuXwRUnw
