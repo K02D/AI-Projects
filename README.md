@@ -1,6 +1,6 @@
 # CS50 AI
 
-Projects completed as a part of the course "CS50's Introduction to Artificial Intelligence with Python".
+Programming projects completed as a part of the course "CS50's Introduction to Artificial Intelligence with Python".
 https://cs50.harvard.edu/ai/2020/
 
 Course description: 
